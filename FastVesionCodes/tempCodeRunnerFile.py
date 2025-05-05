@@ -1,0 +1,2 @@
+video_path = 'S:\Files\Work\College\Year3\Sem-6\Sem-Project\DataSet\TestVideo-1.mp4'
+output_path = 'S:\Files\Work\College\Year3\Sem-6\Sem-Project\FastOutputs\Detection_Distance_Speed_Direction_OutputVideo-1.mp4'
